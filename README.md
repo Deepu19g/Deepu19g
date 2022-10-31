@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepu19g
 - 👀 I’m interested in ReactJS,ExpressJS,React Native
-- 🌱 I’m currently learning ExpressJS
+- 🌱 I’m currently learning ExpressJS,C++
 
 - 📫 How to reach me deepakmathew.mec@gmail.com
 
